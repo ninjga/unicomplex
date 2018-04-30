@@ -179,9 +179,9 @@ This should prevent tyranny of the mob.
 
 Currently under development in the Centaur project.
 
-![centaurian](https://github.com/netsecdotml/centaurian/blob/master/centaurian.png)
+![centaurian](https://github.com/ninjga/centaurian/blob/master/centaurian.png)
 
-https://github.com/netsecdotml/centaurian/
+https://github.com/ninjga/centaurian/
 
 
 
